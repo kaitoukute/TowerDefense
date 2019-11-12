@@ -1,0 +1,10 @@
+.cell-highlight {
+    -fx-background-color:derive(dodgerblue,0.9);
+}
+.cell-hover {
+    -fx-border-color:gold;
+}
+
+.cell-invalid {
+    -fx-border-color:red;
+}
